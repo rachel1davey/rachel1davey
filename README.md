@@ -1,15 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently studying a degree in Computer Science!<br><br>🌱 I’m currently learning Object Orientated Programming with Python :)<br>💬 Ask me about anything :)<br>⚡ Fun fact my favourite bands are Avenged Sevenfold & Ice Nine Kills
+# Hey, I'm Rachel 👋
 
+I'm a Computer Science student learning how to build cool things with code.
+Right now, I'm focused on getting better at what I'm learning.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rachel-davey-816693318) 
+This GitHub is where I keep my projects, experiments, and WIP stuff as I figure things out.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+## 🔧 What I'm Learning
 
+- Frontend development (HTML, CSS, JavaScript)
+- Python and Flask
+- Electron for simple desktop apps
+- How to write code that actually makes sense
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🧪 Projects in Progress
 
+- **Lo-Fi Pomodoro** – a calming timer app with relaxing music, built in Electron
+- **Flask Meme Page** – a simple web app made with Python + Flask
+
+## 🎯 Why I'm Doing This
+
+I'm not trying to make anything perfect right now — just learning by building. 
+Every project teaches me something new, even if it breaks every second.. 😂
+
+## 📬 Say Hi
+
+If you're also learning, feel free to connect or check out my stuff! :)
 
