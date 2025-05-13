@@ -19,7 +19,7 @@ This GitHub is where I keep my projects, experiments, and WIP stuff as I figure 
 
 ## 🎯 Why I'm Doing This
 
-I'm not trying to make anything perfect right now — just learning by building. 
+I'm not trying to make anything perfect right now, just learning by building. 
 Every project teaches me something new, even if it breaks every second.. 😂
 
 ## 📬 Say Hi
