@@ -1,8 +1,6 @@
 # Hey, I'm Rachel 👋
 
-I'm a Computer Science student learning how to build cool things with code.
-Right now, I'm focused on getting better at what I'm learning.
-
+I'm learning how to build cool things with code.
 This GitHub is where I keep my projects, experiments, and WIP stuff as I figure things out.
 
 ## 🔧 What I'm Learning
@@ -10,7 +8,7 @@ This GitHub is where I keep my projects, experiments, and WIP stuff as I figure 
 - Frontend development (HTML, CSS, JavaScript)
 - Python and Flask
 - Electron for simple desktop apps
-- How to write code that actually makes sense
+- How to write code that works 😆
 
 ## 🧪 Projects in Progress
 
