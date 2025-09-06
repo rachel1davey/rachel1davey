@@ -6,19 +6,14 @@ This GitHub is where I keep my projects, experiments, and WIP stuff as I figure 
 ## 🔧 What I'm Learning
 
 - Frontend development (HTML, CSS, JavaScript)
-- Python and Flask
-- Electron for simple desktop apps
+- Backend development
+- Python and Django
 - How to write code that works 😆
 
 ## 🧪 Projects in Progress
 
-- **Lo-Fi Pomodoro** – a calming timer app with relaxing music, built in Electron
-- **Flask Meme Page** – a simple web app made with Python + Flask
-
-## 🎯 Why I'm Doing This
-
-I'm not trying to make anything perfect right now, just learning by building. 
-Every project teaches me something new, even if it breaks every second.. 😂
+- **Puddle** – a full stack marketplace web application made with django
+- **Income/Expense Tracker** – a simple income/expense tracker made with django
 
 ## 📬 Say Hi
 
