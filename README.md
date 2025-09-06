@@ -3,6 +3,11 @@
 I'm learning how to build cool things with code.
 This GitHub is where I keep my projects, experiments, and WIP stuff as I figure things out.
 
+## Technologies I've Used:
+HTML, CSS, Bootstrap, TailwindCSS
+Python, Django, Flask
+JavaScript, Next.JS, React
+
 ## 🔧 What I'm Learning
 
 - Frontend development (HTML, CSS, JavaScript)
