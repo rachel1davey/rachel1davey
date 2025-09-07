@@ -25,3 +25,6 @@ This GitHub is where I keep my projects, experiments, and WIP stuff as I figure 
 
 If you're also learning, feel free to connect or check out my stuff! :)
 
+![Rachel's's github stats](https://github-readme-stats.vercel.app/api?username=rachel1davey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachel1davey)
+
