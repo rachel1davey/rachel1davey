@@ -1,32 +1,26 @@
-# Hey, I'm Rachel 👋
+<img src="https://raw.githubusercontent.com/rachel1davey/rachel1davey/output/snake.svg" alt="Snake animation" />
 
-I'm learning how to build cool things with code.
-This GitHub is where I keep my projects, experiments, and WIP stuff as I figure things out.
+###
 
-## Technologies I've Used:
-- HTML, CSS, Bootstrap, TailwindCSS
-- Python, Django, Flask
-- JavaScript, Next.JS, React
-- MySQL, PostgreSQL
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rachel1davey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachel1davey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🔧 What I'm Learning
+###
 
-- Frontend development (HTML, CSS, JavaScript)
-- Backend development
-- Python and Django
-- How to write code that works 😆
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
 
-## 🧪 Projects in Progress
-
-- **Puddle** – a full stack marketplace web application made with django
-- **Income/Expense Tracker** – a simple income/expense tracker made with django
-
-## 📬 Say Hi
-
-If you're also learning, feel free to connect or check out my stuff! :)
-
-![Rachel's's github stats](https://github-readme-stats.vercel.app/api?username=rachel1davey)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachel1davey)
-
+###
