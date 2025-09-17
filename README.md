@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/rachel1davey/rachel1davey/output/snake.svg" alt="Snake animation" />
 
 ###
 
