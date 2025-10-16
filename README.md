@@ -22,12 +22,9 @@ Here are some projects I’ve worked on:
 - Full-stack development  
 - API integration and backend logic  
 
-## 📊 Fun Stats & Badges
-
 ![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachel1davey&show_icons=true&hide_title=true&count_private=true&hide=prs)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachel1davey&layout=compact&hide=html)
-
-### 🎖️ Badges
+![Visitor Count](https://profile-counter.glitch.me/rachel1davey/count.svg) 
 
 ![Hackathon Enthusiast](https://img.shields.io/badge/Hackathon-Enthusiast-blue)  
 ![Bootcamp Grad](https://img.shields.io/badge/Bootcamp-Graduate-green)  
