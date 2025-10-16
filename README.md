@@ -1,27 +1,44 @@
+# Hey, I'm Rachel 👋
 
-###
+Aspiring developer and online student at the University of Hertfordshire.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachel1davey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachel1davey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🔨 Projects & Experiments
 
-###
+Here are some projects I’ve worked on:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+- **[Random Password Generator](https://github.com/rachel1davey/random-password-generator)** – A JavaScript tool to quickly generate secure passwords. Perfect for when you need a strong password in a flash.
+- **[Weather App](https://github.com/PeterCones/Weather-App)** – Built during a hackathon, this app fetches live weather data from an API and displays it neatly. A fun challenge under tight time constraints!
+- **[Java Group Chat CLI](https://github.com/rachel1davey/java-groupchat-cli)** – A multi-threaded Java command-line chat app to connect users in real-time.
+- **[Movie Tracker Django](https://github.com/rachel1davey/movie_tracker_django)** – A bootcamp project where I built a Django app to track and manage movies I’ve watched or want to watch. Learned a lot about backend logic and database handling.
 
-###
+## 💻 Skills & Tools
+
+- **Languages:** JavaScript, Python, Java, HTML, CSS  
+- **Frameworks & Libraries:** React, Django, Bootstrap, TailwindCSS  
+- **Tools:** Git, GitHub, VS Code  
+
+## 🌱 Learning & Growth
+
+- Full-stack development  
+- API integration and backend logic  
+
+## 📊 Fun Stats & Badges
+
+![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachel1davey&show_icons=true&hide_title=true&count_private=true&hide=prs)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachel1davey&layout=compact&hide=html)
+
+### 🎖️ Badges
+
+![Hackathon Enthusiast](https://img.shields.io/badge/Hackathon-Enthusiast-blue)  
+![Bootcamp Grad](https://img.shields.io/badge/Bootcamp-Graduate-green)  
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-orange)  
+![Lifelong Learner](https://img.shields.io/badge/Lifelong-Learner-purple)  
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/rachel-davey-816693318)  
+- [Portfolio](https://rachel1davey.github.io)  
+
+---
+
+Feel free to explore my projects. Always excited to learn and collaborate.
