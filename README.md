@@ -2,14 +2,8 @@
 
 Aspiring developer and online student at the University of Hertfordshire.
 
-## 🔨 Projects & Experiments
-
-Here are some projects I’ve worked on:
-
-- **[Random Password Generator](https://github.com/rachel1davey/random-password-generator)** – A JavaScript tool to quickly generate secure passwords. Perfect for when you need a strong password in a flash.
-- **[Weather App](https://github.com/PeterCones/Weather-App)** – Built during a hackathon, this app fetches live weather data from an API and displays it neatly. A fun challenge under tight time constraints!
-- **[Java Group Chat CLI](https://github.com/rachel1davey/java-groupchat-cli)** – A multi-threaded Java command-line chat app to connect users in real-time.
-- **[Movie Tracker Django](https://github.com/rachel1davey/movie_tracker_django)** – A bootcamp project where I built a Django app to track and manage movies I’ve watched or want to watch. Learned a lot about backend logic and database handling.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
 
