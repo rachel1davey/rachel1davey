@@ -3,22 +3,8 @@
 Aspiring developer and online student at the University of Hertfordshire.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 48.6 kB Used in GitHub's Storage 
- > 
-> 🏆 51 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -79,14 +65,6 @@ CSS                      2 repos             █░░░░░░░░░░�
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/rachel1davey/rachel1davey/main/assets/bar_graph.png)
-
-
- Last Updated on 29/03/2026 14:46:45 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
