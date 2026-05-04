@@ -30,11 +30,10 @@ Sunday                   642 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Python                   10 mins             ████████████████░░░░░░░░░   65.78 % 
-Markdown                 5 mins              █████████░░░░░░░░░░░░░░░░   34.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -50,7 +49,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2026 19:32:23 UTC
+ Last Updated on 04/05/2026 20:00:58 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
