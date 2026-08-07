@@ -3,47 +3,6 @@
 Aspiring developer and online student at the University of Hertfordshire.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2039%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-🌆 Daytime                922 commits         ███████████░░░░░░░░░░░░░░   45.42 % 
-🌃 Evening                422 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-🌙 Night                  368 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Tuesday                  329 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Wednesday                258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Thursday                 386 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Friday                   83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Sunday                   642 commits         ████████░░░░░░░░░░░░░░░░░   31.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Vienna
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -57,7 +16,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:02:42 UTC
+ Last Updated on 07/08/2026 00:21:33 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
