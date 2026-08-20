@@ -3,7 +3,7 @@
 Aspiring developer and online student at the University of Hertfordshire.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%205%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -32,34 +32,35 @@ Sunday                   642 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Astro                    32 mins             ███████████████████████░░   90.10 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Astro                    47 mins             ██████████████████████░░░   89.16 % 
+CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (62.08%)
+⏱ AI Coding Time: 28 mins (53.26%)
 
-✍️ 40 lines written by AI, 577 lines written by hand (6.48% AI-written)
+✍️ 40 lines written by AI, 605 lines written by hand (6.2% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 79,941 Input Tokens, 782 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.25 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 19 AI Prompts
+🧠 3 AI Sessions, 25 AI Prompts
 
 Github-Copilot           80 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.48% of written lines came from AI
-📝 Concise Prompter — average 41 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 92.12% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 6.2% of written lines came from AI
+📝 Concise Prompter — average 38 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 92.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -75,7 +76,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:00:38 UTC
+ Last Updated on 20/08/2026 19:09:28 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
