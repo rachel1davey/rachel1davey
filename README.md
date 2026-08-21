@@ -3,7 +3,7 @@
 Aspiring developer and online student at the University of Hertfordshire.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2011%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -76,7 +76,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:09:28 UTC
+ Last Updated on 21/08/2026 19:05:04 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
