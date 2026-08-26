@@ -32,35 +32,34 @@ Sunday                   642 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Astro                    47 mins             ██████████████████████░░░   89.16 % 
-CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Astro                    15 mins             ██████████████████████░░░   87.27 % 
+CSS                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (53.26%)
+⏱ AI Coding Time: 6 mins (35.53%)
 
-✍️ 40 lines written by AI, 605 lines written by hand (6.2% AI-written)
+✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
 
 🔤 79,941 Input Tokens, 782 Output Tokens
 
 💵 $0.25 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 25 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
-Github-Copilot           80 lines            █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.2% of written lines came from AI
-📝 Concise Prompter — average 38 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 92.39% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 28 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -76,7 +75,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:07:13 UTC
+ Last Updated on 26/08/2026 20:20:01 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
