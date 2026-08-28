@@ -32,34 +32,16 @@ Sunday                   642 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Astro                    15 mins             ██████████████████████░░░   87.27 % 
-CSS                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (35.53%)
-
-✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
-
-🔤 79,941 Input Tokens, 782 Output Tokens
-
-💵 $0.25 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 28 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -75,7 +57,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:20:01 UTC
+ Last Updated on 28/08/2026 02:15:19 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
