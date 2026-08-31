@@ -8,21 +8,21 @@ Aspiring developer and online student at the University of Hertfordshire.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-🌆 Daytime                922 commits         ███████████░░░░░░░░░░░░░░   45.42 % 
-🌃 Evening                422 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-🌙 Night                  368 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+🌞 Morning                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+🌆 Daytime                923 commits         ███████████░░░░░░░░░░░░░░   45.45 % 
+🌃 Evening                422 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+🌙 Night                  368 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Tuesday                  329 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Wednesday                258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Monday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Tuesday                  329 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 Thursday                 386 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
 Friday                   83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Sunday                   642 commits         ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Sunday                   642 commits         ████████░░░░░░░░░░░░░░░░░   31.61 % 
 ```
 
 
@@ -47,17 +47,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 30/08/2026 21:17:44 UTC
+ Last Updated on 31/08/2026 22:58:00 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
