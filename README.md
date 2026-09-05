@@ -3,26 +3,26 @@
 Aspiring developer and online student at the University of Hertfordshire.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2031%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-🌆 Daytime                924 commits         ███████████░░░░░░░░░░░░░░   45.41 % 
-🌃 Evening                425 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-🌙 Night                  368 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+🌞 Morning                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+🌆 Daytime                924 commits         ███████████░░░░░░░░░░░░░░   45.27 % 
+🌃 Evening                431 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+🌙 Night                  368 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Tuesday                  329 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Wednesday                258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Thursday                 389 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Friday                   84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Sunday                   642 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
+Monday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Tuesday                  329 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Wednesday                258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Thursday                 389 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Friday                   84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Saturday                 277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Sunday                   642 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
 ```
 
 
@@ -32,23 +32,23 @@ Sunday                   642 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Svelte                   3 hrs               ██████████████░░░░░░░░░░░   56.42 % 
-TypeScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-JavaScript               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Svelte                   3 hrs               █████████████░░░░░░░░░░░░   52.19 % 
+TypeScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+JavaScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 17 mins       █████████████████████████   99.33 % 
-Notion                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+VS Code                  5 hrs 35 mins       ████████████████████████░   97.10 % 
+Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (6.3%)
+⏱ AI Coding Time: 20 mins (5.83%)
 
-✍️ 4 lines written by AI, 1,215 lines written by hand (0.33% AI-written)
+✍️ 4 lines written by AI, 1,237 lines written by hand (0.32% AI-written)
 
 🔤 29,407 Input Tokens, 207 Output Tokens
 
@@ -59,7 +59,7 @@ Notion                   2 mins              ░░░░░░░░░░░�
 Github-Copilot           5 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.33% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.32% of written lines came from AI
 📝 Concise Prompter — average 42 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 99.72% of changed lines were hand-edited
@@ -68,17 +68,17 @@ Github-Copilot           5 lines             ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
 Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 04/09/2026 20:54:19 UTC
+ Last Updated on 05/09/2026 20:32:21 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
