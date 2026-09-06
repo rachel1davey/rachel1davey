@@ -8,21 +8,21 @@ Aspiring developer and online student at the University of Hertfordshire.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-🌆 Daytime                924 commits         ███████████░░░░░░░░░░░░░░   45.27 % 
-🌃 Evening                431 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-🌙 Night                  368 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+🌞 Morning                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+🌆 Daytime                924 commits         ███████████░░░░░░░░░░░░░░   45.18 % 
+🌃 Evening                431 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+🌙 Night                  372 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Tuesday                  329 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Wednesday                258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Thursday                 389 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Friday                   84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Saturday                 277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Sunday                   642 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
+Monday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Tuesday                  329 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Wednesday                258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Thursday                 389 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Friday                   84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Saturday                 277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Sunday                   646 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
 ```
 
 
@@ -32,37 +32,37 @@ Sunday                   642 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Svelte                   3 hrs               █████████████░░░░░░░░░░░░   52.19 % 
-TypeScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-JavaScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Svelte                   3 hrs 42 mins       █████████████░░░░░░░░░░░░   50.82 % 
+JavaScript               1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+TypeScript               1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 35 mins       ████████████████████████░   97.10 % 
-Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+VS Code                  7 hrs 6 mins        ████████████████████████░   97.71 % 
+Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (5.83%)
+⏱ AI Coding Time: 30 mins (6.91%)
 
-✍️ 4 lines written by AI, 1,237 lines written by hand (0.32% AI-written)
+✍️ 4 lines written by AI, 1,383 lines written by hand (0.29% AI-written)
 
-🔤 29,407 Input Tokens, 207 Output Tokens
+🔤 52,549 Input Tokens, 567 Output Tokens
 
-💵 $0.09 Estimated AI Cost This Week
+💵 $0.17 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
 Github-Copilot           5 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.32% of written lines came from AI
-📝 Concise Prompter — average 42 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.72% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.29% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 99.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -78,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:32:21 UTC
+ Last Updated on 06/09/2026 20:34:30 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
