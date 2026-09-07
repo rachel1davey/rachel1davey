@@ -3,7 +3,7 @@
 Aspiring developer and online student at the University of Hertfordshire.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2041%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -32,37 +32,37 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Svelte                   3 hrs 42 mins       █████████████░░░░░░░░░░░░   50.82 % 
-JavaScript               1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-TypeScript               1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Svelte                   4 hrs 17 mins       █████████████░░░░░░░░░░░░   50.67 % 
+JavaScript               2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 6 mins        ████████████████████████░   97.71 % 
-Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+VS Code                  8 hrs 17 mins       █████████████████████████   98.03 % 
+Notion                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (6.91%)
+⏱ AI Coding Time: 32 mins (6.36%)
 
-✍️ 4 lines written by AI, 1,383 lines written by hand (0.29% AI-written)
+✍️ 4 lines written by AI, 1,748 lines written by hand (0.23% AI-written)
 
 🔤 52,549 Input Tokens, 567 Output Tokens
 
 💵 $0.17 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 9 AI Prompts
 
 Github-Copilot           5 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.29% of written lines came from AI
-📝 Concise Prompter — average 35 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.75% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.23% of written lines came from AI
+📝 Concise Prompter — average 33 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -78,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 20:34:30 UTC
+ Last Updated on 07/09/2026 21:38:46 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
