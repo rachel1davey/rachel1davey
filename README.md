@@ -3,7 +3,7 @@
 Aspiring developer and online student at the University of Hertfordshire.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2043%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -32,23 +32,23 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Svelte                   4 hrs 17 mins       █████████████░░░░░░░░░░░░   50.67 % 
-JavaScript               2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Svelte                   4 hrs 21 mins       █████████████░░░░░░░░░░░░   51.14 % 
+JavaScript               2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 17 mins       █████████████████████████   98.03 % 
-Notion                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+VS Code                  8 hrs 22 mins       █████████████████████████   98.05 % 
+Notion                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (6.36%)
+⏱ AI Coding Time: 32 mins (6.3%)
 
-✍️ 4 lines written by AI, 1,748 lines written by hand (0.23% AI-written)
+✍️ 4 lines written by AI, 1,751 lines written by hand (0.23% AI-written)
 
 🔤 52,549 Input Tokens, 567 Output Tokens
 
@@ -78,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 21:38:46 UTC
+ Last Updated on 08/09/2026 21:18:03 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
