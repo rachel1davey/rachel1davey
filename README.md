@@ -32,37 +32,37 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Svelte                   4 hrs 21 mins       █████████████░░░░░░░░░░░░   51.14 % 
-JavaScript               2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Svelte                   3 hrs               ████████████░░░░░░░░░░░░░   47.41 % 
+JavaScript               2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.06 % 
+Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+TypeScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 22 mins       █████████████████████████   98.05 % 
-Notion                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+VS Code                  6 hrs 10 mins       ████████████████████████░   97.37 % 
+Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (6.3%)
+⏱ AI Coding Time: 23 mins (6.22%)
 
-✍️ 4 lines written by AI, 1,751 lines written by hand (0.23% AI-written)
+✍️ 0 lines written by AI, 1,074 lines written by hand (0.0% AI-written)
 
-🔤 52,549 Input Tokens, 567 Output Tokens
+🔤 23,142 Input Tokens, 360 Output Tokens
 
-💵 $0.17 Estimated AI Cost This Week
+💵 $0.07 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 9 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-Github-Copilot           5 lines             █████████████████████████   100.00 % 
+Github-Copilot           4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.23% of written lines came from AI
-📝 Concise Prompter — average 33 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 20 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.85% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -78,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 21:18:03 UTC
+ Last Updated on 09/09/2026 21:03:26 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
