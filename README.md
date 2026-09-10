@@ -32,23 +32,23 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Svelte                   3 hrs               ████████████░░░░░░░░░░░░░   47.41 % 
-JavaScript               2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.06 % 
-Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-TypeScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Svelte                   2 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.85 % 
+JavaScript               2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.04 % 
+Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 10 mins       ████████████████████████░   97.37 % 
-Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+VS Code                  5 hrs 49 mins       ████████████████████████░   97.21 % 
+Notion                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (6.22%)
+⏱ AI Coding Time: 23 mins (6.59%)
 
-✍️ 0 lines written by AI, 1,074 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 915 lines written by hand (0.0% AI-written)
 
 🔤 23,142 Input Tokens, 360 Output Tokens
 
@@ -56,7 +56,7 @@ Notion                   10 mins             █░░░░░░░░░░�
 
 🧠 3 AI Sessions, 5 AI Prompts
 
-Github-Copilot           4 lines             █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -78,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 21:03:26 UTC
+ Last Updated on 10/09/2026 21:01:56 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
