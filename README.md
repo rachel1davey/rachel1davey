@@ -32,23 +32,23 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-JavaScript               1 hr 22 mins        ███████████░░░░░░░░░░░░░░   43.11 % 
-Svelte                   1 hr 21 mins        ███████████░░░░░░░░░░░░░░   42.37 % 
-Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Svelte                   1 hr 21 mins        ███████████░░░░░░░░░░░░░░   43.59 % 
+JavaScript               1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   38.08 % 
+Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        ████████████████████████░   95.92 % 
-Notion                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+VS Code                  2 hrs 46 mins       ██████████████████████░░░   89.03 % 
+Notion                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (6.3%)
+⏱ AI Coding Time: 12 mins (6.48%)
 
-✍️ 0 lines written by AI, 536 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 514 lines written by hand (0.0% AI-written)
 
 🔤 23,142 Input Tokens, 360 Output Tokens
 
@@ -78,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 21:06:22 UTC
+ Last Updated on 12/09/2026 20:43:56 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
