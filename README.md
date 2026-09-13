@@ -32,36 +32,32 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Svelte                   1 hr 21 mins        ███████████░░░░░░░░░░░░░░   43.59 % 
-JavaScript               1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   38.08 % 
-Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Svelte                   39 mins             ██████████░░░░░░░░░░░░░░░   41.66 % 
+JavaScript               35 mins             █████████░░░░░░░░░░░░░░░░   36.74 % 
+Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 46 mins       ██████████████████████░░░   89.03 % 
-Notion                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+VS Code                  1 hr 15 mins        ████████████████████░░░░░   78.58 % 
+Notion                   20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (6.48%)
+⏱ AI Coding Time: 2 mins (2.14%)
 
-✍️ 0 lines written by AI, 514 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 368 lines written by hand (0.0% AI-written)
 
-🔤 23,142 Input Tokens, 360 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.07 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 22 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 18 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -78,7 +74,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 20:43:56 UTC
+ Last Updated on 13/09/2026 20:59:42 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
