@@ -32,33 +32,19 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Svelte                   39 mins             ██████████░░░░░░░░░░░░░░░   41.66 % 
-JavaScript               35 mins             █████████░░░░░░░░░░░░░░░░   36.74 % 
-Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Other                    31 mins             ██████████████████████░░░   86.30 % 
+Svelte                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        ████████████████████░░░░░   78.58 % 
-Notion                   20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Notion                   31 mins             ██████████████████████░░░   86.30 % 
+VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (2.14%)
-
-✍️ 0 lines written by AI, 368 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 18 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -74,7 +60,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 20:59:42 UTC
+ Last Updated on 14/09/2026 21:57:04 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
