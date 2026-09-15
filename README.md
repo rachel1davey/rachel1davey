@@ -32,13 +32,13 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Other                    31 mins             ██████████████████████░░░   86.30 % 
-Svelte                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    34 mins             █████████████████░░░░░░░░   66.59 % 
+Svelte                   17 mins             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Notion                   31 mins             ██████████████████████░░░   86.30 % 
-VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Notion                   31 mins             ████████████████░░░░░░░░░   62.36 % 
+VS Code                  19 mins             █████████░░░░░░░░░░░░░░░░   37.64 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -60,7 +60,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 21:57:04 UTC
+ Last Updated on 15/09/2026 21:33:52 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
