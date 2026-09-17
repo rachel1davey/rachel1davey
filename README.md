@@ -32,19 +32,37 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Other                    44 mins             ██████████████████░░░░░░░   72.35 % 
-Svelte                   17 mins             ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    55 mins             ███████████████████░░░░░░   75.72 % 
+Svelte                   17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Notion                   42 mins             █████████████████░░░░░░░░   68.85 % 
-VS Code                  19 mins             ████████░░░░░░░░░░░░░░░░░   31.15 % 
+Notion                   53 mins             ██████████████████░░░░░░░   72.79 % 
+VS Code                  20 mins             ███████░░░░░░░░░░░░░░░░░░   27.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (1.14%)
+
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+
+🔤 18,645 Input Tokens, 180 Output Tokens
+
+💵 $0.06 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 2,792 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -60,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:29:59 UTC
+ Last Updated on 17/09/2026 21:33:32 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
