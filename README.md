@@ -3,7 +3,7 @@
 Aspiring developer and online student at the University of Hertfordshire.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2044%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -32,21 +32,21 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Other                    55 mins             ███████████████████░░░░░░   75.72 % 
-Svelte                   17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    1 hr 20 mins        ██████████████████░░░░░░░   73.16 % 
+Svelte                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Image (png)              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Notion                   53 mins             ██████████████████░░░░░░░   72.79 % 
-VS Code                  20 mins             ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+Notion                   1 hr 29 mins        ████████████████████░░░░░   81.69 % 
+VS Code                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (1.14%)
+⏱ AI Coding Time: 14 mins (13.39%)
 
 ✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
@@ -54,14 +54,14 @@ VS Code                  20 mins             ███████░░░░�
 
 💵 $0.06 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,792 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 952 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -78,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 21:33:32 UTC
+ Last Updated on 18/09/2026 21:04:08 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
