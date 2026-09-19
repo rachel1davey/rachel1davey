@@ -3,7 +3,7 @@
 Aspiring developer and online student at the University of Hertfordshire.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2058%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -32,21 +32,21 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Other                    1 hr 20 mins        ██████████████████░░░░░░░   73.16 % 
-Svelte                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Image (png)              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    1 hr 14 mins        ██████████████████░░░░░░░   71.58 % 
+Svelte                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Image (png)              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Notion                   1 hr 29 mins        ████████████████████░░░░░   81.69 % 
-VS Code                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Notion                   1 hr 23 mins        ████████████████████░░░░░   80.62 % 
+VS Code                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (13.39%)
+⏱ AI Coding Time: 14 mins (14.18%)
 
 ✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
@@ -78,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:04:08 UTC
+ Last Updated on 19/09/2026 20:52:54 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
