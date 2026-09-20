@@ -54,14 +54,14 @@ VS Code                  20 mins             █████░░░░░░�
 
 💵 $0.06 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📄 Detailed Prompter — average 952 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -78,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 20:52:54 UTC
+ Last Updated on 20/09/2026 20:58:58 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
