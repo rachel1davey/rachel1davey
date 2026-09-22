@@ -32,23 +32,22 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Other                    1 hr 3 mins         █████████████████░░░░░░░░   68.33 % 
-Svelte                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Image (png)              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    1 hr                █████████████████████░░░░   83.06 % 
+Image (png)              11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Notion                   1 hr 12 mins        ████████████████████░░░░░   78.40 % 
-VS Code                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Notion                   1 hr 12 mins        █████████████████████████   98.85 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (15.8%)
+⏱ AI Coding Time: 14 mins (20.12%)
 
-✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 18,645 Input Tokens, 180 Output Tokens
 
@@ -59,10 +58,10 @@ VS Code                  20 mins             █████░░░░░░�
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📄 Detailed Prompter — average 952 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -78,7 +77,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:05:54 UTC
+ Last Updated on 22/09/2026 21:32:20 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
