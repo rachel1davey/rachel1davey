@@ -32,20 +32,20 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████░░░░   83.06 % 
-Image (png)              11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Other                    49 mins             ████████████████████░░░░░   80.17 % 
+Image (png)              11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Notion                   1 hr 12 mins        █████████████████████████   98.85 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Notion                   1 hr 1 min          █████████████████████████   98.65 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (20.12%)
+⏱ AI Coding Time: 14 mins (23.55%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -77,7 +77,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 21:32:20 UTC
+ Last Updated on 23/09/2026 21:38:21 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
