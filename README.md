@@ -32,34 +32,29 @@ Sunday                   646 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Other                    49 mins             ████████████████████░░░░░   80.17 % 
-Image (png)              11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    38 mins             ███████████████████░░░░░░   77.10 % 
+Image (png)              11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 
 🔥 Editors: 
-Notion                   1 hr 1 min          █████████████████████████   98.65 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Notion                   50 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (23.55%)
+⏱ AI Coding Time: 13 mins (27.51%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 18,645 Input Tokens, 180 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.06 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 2 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 952 characters per prompt
+📝 Concise Prompter — average 32 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -77,7 +72,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:38:21 UTC
+ Last Updated on 24/09/2026 21:39:34 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Skills & Tools
